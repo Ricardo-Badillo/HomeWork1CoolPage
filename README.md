@@ -1,2 +1,3 @@
-# HomeWork1CoolPage
-First homework of Bootcamp
+# BootCamp
+Homework
+In this first assignment, I created a repository to through GitHub. After cloning it and pulling it onto my desktop. I am able to work on the html and css files of the website and I can push it back to GitHub. On the website file:///Users/Ricky/Desktop/BootCamp/02-Homework/Develop/index.html#search-engine-optimization there are some lines of code on the HTML and CSS file that needed some cleaning up without changing how the page looks. After working on these files I am then able to push it back to GitHub. 
